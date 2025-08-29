@@ -12,4 +12,13 @@ https://canvas.illinois.edu/courses/59581/pages/module-1-engineering-design-and-
 
 
 1. 下载课堂笔记（我就只放annoted版本了）
-2. 
+2. 上传作业
+
+
+## 平时看
+
+
+直接module到class module 就有各种文件+要上交的作业ddl
+
+1. 课本+solution做作业
+2. lab
