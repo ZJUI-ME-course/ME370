@@ -6,24 +6,6 @@
 
 
 
-## 平时修改
-https://canvas.illinois.edu/courses/59581/pages/module-1-engineering-design-and-planar-mechanisms?module_item_id=4378782
-根据这个上面的 syllabus内的文件直接
-
-
-1. 下载课堂笔记（我就只放annoted版本了）
-2. 上传作业
-
-
-## 平时看
-
-
-直接module到class module 就有各种文件+要上交的作业ddl
-
-1. 课本+solution做作业
-2. lab
-
-
 # 一些感受
 
 感觉ME370是为数不多的结实很好的美国朋友的机会，两个ui两个美国人，事实证明，以往对国际生的认识只能针对国际生（比如在美国的我们）：，美国人队友大部分都是带飞的存在，至少我们组两位队友都是，这边的美国人感觉很多参加rso（社团），大三都已经是社团中的领导层，其实还是很有实力的。所以膜拜就完事了
